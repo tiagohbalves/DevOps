@@ -1,0 +1,4 @@
+awscli>=1.25.16
+terraform-local>=0.2
+aws-sam-cli-local>=1.1.0.1
+aws-sam-cli>=1.52.0
